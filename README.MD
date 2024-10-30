@@ -3,8 +3,7 @@ It's a web application for managing patients appointments and hospital staff. Th
 
 It allows patients to register and submit their appointments. They also can send messages to the hospital administration. Admin can control the status of patients appointments as well as add new admins and doctors in the database.
 
-# Live demo :rocket:
-https://lifeline-healthcare-login.netlify.app/
+
 
 * For patient's login, they can register first then login.
 * For Admin login, by default you can use below email id and password and can create new admins afterwards.
