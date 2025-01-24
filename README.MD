@@ -8,8 +8,8 @@ It allows patients to register and submit their appointments. They also can send
 * For patient's login, they can register first then login.
 * For Admin login, by default you can use below email id and password and can create new admins afterwards.
 
-  email: hpt@gmail.com
-  password: 1234567890
+  email:  sc@gmail.com
+  password: 12345678
 
 
 
@@ -20,7 +20,7 @@ It allows patients to register and submit their appointments. They also can send
 # Installing - easy :electric_plug:
 1.	Download the repository
 ```
-git clone https://github.com/Darkhunt16/HOSPITAL-MANAGEMENT-SYSTEM.git
+git clone https://github.com/tripathi1108/HOSPITAL-MANAGEMENT-SYSTEM.git
 ```
 2.	Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
 3.	Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
