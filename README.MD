@@ -8,7 +8,7 @@ It allows patients to register and submit their appointments. They also can send
 * For patient's login, they can register first then login.
 * For Admin login, by default you can use below email id and password and can create new admins afterwards.
 
-  email:  sc@gmail.com
+  email:  harsh@gmail.com
   password: 12345678
 
 
